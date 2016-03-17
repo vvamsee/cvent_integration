@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <!-- <cron>
+    <url>/cventintegration/test</url>
+    <description>Inserts records to cvent for every 5 minutes from salesforce</description>
+    <schedule>every 5 minutes</schedule>
+  </cron>   -->
+</cronentries>

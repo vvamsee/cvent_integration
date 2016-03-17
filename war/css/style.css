@@ -1,0 +1,119 @@
+/*Website Template by freewebsitetemplates.com*/
+body {
+	background: #fff url("/images/bg.jpg") repeat scroll left top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1;
+	margin : 0;
+	padding: 0;
+}
+#header {
+	margin: 0 auto;
+	padding: 0;
+	width: 1045px;
+}
+#header div {
+	margin: 0;
+	overflow: hidden;
+	/* padding: 59px 0 57px; */
+}
+
+#header ul {
+	background: rgb(61, 157, 179) none repeat scroll 0 0;
+	border-top: 3px solid #0eacae;
+	margin: 0;
+	overflow: hidden;
+	 padding: 10px 0;
+	 
+}
+#header ul li {
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#header ul li a {
+	color:#000;
+	display: block;
+	height: 35px;
+	letter-spacing: 1px;
+	line-height: 35px;
+	margin: 0;
+	padding: 8px 12px 4px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	background: rgb(222, 234, 236) none repeat scroll 0 0;
+    border-radius: 15px;
+}
+#header ul li a:hover {
+	background: rgb(190, 236, 247) none repeat scroll 0 0;
+	color: #000;
+	font-size: 25px;
+	border-radius: 15px;
+	
+}
+#header ul li.selected a {
+	background: rgb(190, 236, 247) none repeat scroll 0 0;
+	color: #000;
+	font-size: 25px;
+	padding: 8px 12px;
+	border-radius: 15px;
+	height: 35px;
+}
+
+#body {
+	background: #e4e4e4;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	 width: 1045px;
+}
+
+#body .footer .article {
+	background: none;
+	border-right: 1px solid #afafaf;
+	float: left;
+	margin: 0;
+	min-height: 420px;
+    overflow: hidden;
+	padding: 0;
+	width: 1213px;
+}
+
+
+#body .article div {
+	float: left;
+	margin: 0 40px 0 0;
+	padding: 0;
+	width: 420px;
+}
+
+#body .footer {
+	margin: 0;
+	overflow: hidden;
+	padding: 30px 0 20px;
+}
+#body .content {
+	margin: 0;
+	min-height: 900px;
+	overflow: hidden;
+	padding: 40px;
+}
+
+#footer {
+	border-top: 3px solid #0eacae;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 30px 0;
+	width: 1045px;
+}
+
+#footer p {
+	color: #0b4545;
+	float: right;
+	font-size: 12px;
+	letter-spacing: 1px;
+	margin: 0;
+	padding: 	0;
+}
